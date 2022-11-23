@@ -22,7 +22,7 @@
 
 
 #
-### you might also check similar to MySQL 
+### claim similar to MySQL 
 
 >**https://github.com/poisk-ls/Database-Sql-MySQL**
 
