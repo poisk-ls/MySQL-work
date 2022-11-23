@@ -2,8 +2,14 @@
 #
 ### TABLE
 
+**Database name [inventory]**
 
+<details>
+    <summary>&#9749 <b>[inventory]</b></summary><br/>
 
+<p><img src="https://github.com/poisk-ls/MySQL-work/blob/master/assets/table%20%5Binventory%5D/inventory%201.jpg" width="90%"/></p>
+
+</details>
 
 
 
