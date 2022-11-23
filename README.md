@@ -2,7 +2,7 @@
 #
 ### TABLE
 
-**Database name [inventory]**
+**Database**
 
 <details>
     <summary>&#9749 <b>[inventory]</b></summary><br/>
