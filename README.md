@@ -21,7 +21,12 @@
 
 </details>
 
+<details>
+    <summary>&#9749 <b>[ heroes ]</b></summary><br/>
 
+<p><img src="https://github.com/poisk-ls/MySQL-work/blob/master/assets/table%20%5Bheroes%5D/heroes%201.jpg" width="90%"/><img src="https://github.com/poisk-ls/MySQL-work/blob/master/assets/table%20%5Bheroes%5D/heroes%202.jpg" width="90%"/></p>
+
+</details>
 
 
 
