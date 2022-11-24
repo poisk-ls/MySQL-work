@@ -6,7 +6,7 @@
 
 <p><img src="https://img.shields.io/badge/Database-CF96FD?style=for-the-badge&logo=Database&logoColor=393665"</p>
 
-**Table**
+**=Tables=**
 <details>
     <summary>&#9749 <b>[ inventory ]</b></summary><br/>
 
@@ -27,6 +27,14 @@
 <p><img src="https://github.com/poisk-ls/MySQL-work/blob/master/assets/table%20%5Bheroes%5D/heroes%201.jpg" width="90%"/><img src="https://github.com/poisk-ls/MySQL-work/blob/master/assets/table%20%5Bheroes%5D/heroes%202.jpg" width="90%"/></p>
 
 </details>
+
+<details>
+    <summary>&#9749 <b>[ School ]</b></summary><br/>
+
+<p><img src="https://github.com/poisk-ls/MySQL-work/blob/master/assets/database%20%5B%20School%20%5D/School%201.jpg" width="90%"/><img src="https://github.com/poisk-ls/MySQL-work/blob/master/assets/database%20%5B%20School%20%5D/School%202.jpg" width="90%"/></p> <p><img src="https://github.com/poisk-ls/MySQL-work/blob/master/assets/database%20%5B%20School%20%5D/School%203.jpg" width="90%"/></p>
+
+</details>
+
 
 
 
