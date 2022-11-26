@@ -34,6 +34,13 @@
 
 </details>
 
+<details>
+    <summary>&#9749 <b>[ enrollment ]</b></summary><br/>
+
+<p><img src="https://github.com/poisk-ls/MySQL-work/blob/master/assets/tables%20of%20%5Benrollment%5D/enrollment%201.jpg" width="90%"/><img src="https://github.com/poisk-ls/MySQL-work/blob/master/assets/tables%20of%20%5Benrollment%5D/enrollment%202.jpg" width="90%"/></p>
+
+</details>
+
 
 #
 
