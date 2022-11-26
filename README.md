@@ -6,7 +6,7 @@
 
 <p><img src="https://img.shields.io/badge/Database-CF96FD?style=for-the-badge&logo=Database&logoColor=393665"</p>
 
-**=Tables=**
+**⪼ Tables ×͜× ⪻**
 <details>
     <summary>&#9749 <b>[ inventory ]</b></summary><br/>
 
